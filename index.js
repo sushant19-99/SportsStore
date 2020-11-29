@@ -48,7 +48,7 @@ app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 /**
  * Set site title.
  */
-app.locals.siteTitle = 'Ecommerce';
+app.locals.siteTitle = 'Sports Web-Store';
 /**
  * set public folder is static to use any where.
  * Public folder contents js, css, images
