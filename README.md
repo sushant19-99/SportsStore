@@ -11,9 +11,18 @@ This is an ecommerce site for selling sports wear made using HTML,CSS,NodeJs, an
 
 <br>
 <h1><strong>Screenshots</strong></h1>
-<br>
 
-<h2><strong>Landing Page</strong></br>
-<br>
+<h2><strong>Landing Page</strong></h2>
 <img src="https://user-images.githubusercontent.com/43653492/100539762-9b5fe600-325e-11eb-9ff9-956ac6cdde04.PNG">
 <br>
+
+<h2><strong>Product List</strong></h2>
+<img src="https://user-images.githubusercontent.com/43653492/100539767-a0bd3080-325e-11eb-9bf8-2329a5628fd9.PNG">
+<br>
+
+<h2><strong>Cart</strong></h2>
+<img src="https://user-images.githubusercontent.com/43653492/100539772-a581e480-325e-11eb-8541-cfe38372421d.PNG">
+<br>
+
+<h2><strong>Checkout Page</strong></h2>
+<img src="https://user-images.githubusercontent.com/43653492/100539855-525c6180-325f-11eb-89e7-174fb67ea5bc.PNG">
